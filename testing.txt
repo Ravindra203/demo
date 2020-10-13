@@ -1,4 +1,4 @@
-<groupId>Git.repo</groupId>
+<groupId>Git.1</groupId>
 <artifactId>Git_testing/artifactId>
 <version>1.1</version>
 <packaging>jar</packaging>
